@@ -1,0 +1,2 @@
+escpos==1.9
+TikTokLive==0.8.9
